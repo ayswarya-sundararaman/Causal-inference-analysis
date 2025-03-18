@@ -37,7 +37,8 @@ To estimate the **causal effect** of body cameras on use-of-force decisions, the
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```git clone https://github.com/ayswarya-sundararaman/Causal-inference-analysis.git
-cd Causal-inference-analysis```
+   ```bash
+   git clone https://github.com/ayswarya-sundararaman/Causal-inference-analysis.git
+   cd Causal-inference-analysis
 
 
